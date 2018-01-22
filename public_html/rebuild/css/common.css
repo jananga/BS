@@ -51,13 +51,15 @@ body{
 }
 
 .bf{
+
     font-family: 'Oswald', sans-serif;
+
 
 }
 
 #logo{
     vertical-align: middle;
-        margin: 0 auto;
+    margin: 0 auto;
 
 }
 
@@ -65,7 +67,38 @@ body{
     font-size: 3.5em;
 }
 
-.verti_align{
-    vertical-align: middle;
+.image-logo{
+    padding: 38px 0 0 0;
 }
 
+.tollfree{
+    font-size: 23px;
+    font-weight: 500;
+    font-family: 'Oswald', sans-serif;
+    line-height: 22px;
+    color: #FFFFFF;
+    text-align: right;
+    padding-bottom: 3px;
+}
+
+.toll-free-number{
+    font-size: 49px;
+    font-weight: 400;
+    font-family: oswald;
+    line-height: 50px;
+    padding-top: 5px;
+    border-left: 1px solid #ccc;
+    padding-left: 34px;
+}
+
+.position{
+    float: left;
+    display: inline;
+    margin-left: 6px;
+    margin-right: 6px;
+    padding-top: 5px;
+}
+
+.toll-height{
+    line-height: 48px;
+}

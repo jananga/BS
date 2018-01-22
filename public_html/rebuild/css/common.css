@@ -1,0 +1,71 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21-Jan-2018, 11:53:59
+    Author     : acer
+*/
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+#section1{
+
+    background-color: #222222;
+    padding: 0.5em;
+    color: #D5D5D5;
+
+}
+
+.white{
+    color: #FFFFFF;
+}
+
+.ic{
+    color :#D5D5D5;
+    text-decoration: none;
+
+}
+
+.orange{
+    color :#FFB300;
+    text-decoration: none;
+
+}
+
+.ic:hover{
+    color: #FFB300;
+    text-decoration: none;
+
+}
+
+
+#section2{
+
+    background-color: #333;
+    /*padding: 1.5em;*/
+
+}
+
+.bf{
+    font-family: 'Oswald', sans-serif;
+
+}
+
+#logo{
+    vertical-align: middle;
+        margin: 0 auto;
+
+}
+
+.lg_font{
+    font-size: 3.5em;
+}
+
+.verti_align{
+    vertical-align: middle;
+}
+

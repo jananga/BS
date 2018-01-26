@@ -149,3 +149,15 @@ body{
     height: 70px;
     background-color: blue;
 }
+
+#innerMenuDiv{
+    background-color: #FFB300;
+
+    position: absolute;
+    
+    max-width: 100%;
+    width: 100%;
+    
+    height: 70px;
+
+}
